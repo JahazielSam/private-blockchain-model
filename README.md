@@ -1,7 +1,7 @@
 ﻿Screenshots of the Program Flow:
 <-------------------------------->
 1.Executing the project using the command node app.js
-/screenshots/1.png
+![Test Image 3](/screenshots/1.png)
 
 2.Checking if the genesis block is created.
 /screenshots/2.png
